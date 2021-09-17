@@ -19,6 +19,15 @@ html {
   background: $background;
 }
 
+body{
+  font-family: 'Roboto', sans-serif !important;
+
+  button{
+  font-family: 'Roboto', sans-serif !important;
+
+  }
+}
+
 .main {
   height: 100vh;
   display: flex;
